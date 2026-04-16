@@ -6,6 +6,8 @@
 
 ## 🎬 Preview
 
+![Gameplay](gameplay.gif)
+
 ---
 
 ## 🎮 Play the game
@@ -166,12 +168,6 @@ python main.py
 
 Developed and illustrated by me as a personal project.
 Focused on improving skills in **game development** and system design.
-
----
-
-## 📝 License
-
-(Add if applicable)
 
 ---
 
