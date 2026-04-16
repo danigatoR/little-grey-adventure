@@ -1,4 +1,4 @@
-# 👽 Endless Alien Runner
+# 👽 Little Grey Adventure
 
 > An **endless runner** developed with **Python + Pygame**, featuring original pixel art and a focus on scalable game systems.
 
